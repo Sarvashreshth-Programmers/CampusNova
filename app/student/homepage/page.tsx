@@ -32,6 +32,7 @@ import { Progress } from "@radix-ui/react-progress"
 import { toast } from "sonner"
 import { Button } from "@/components/ui/button"
 import { Video, School } from "lucide-react"
+import { AppSidebarStudent } from "@/components/app-sidebar-student"
 
 type Notice = {
   _id: string;
@@ -141,7 +142,7 @@ const today = new Date();
     <>
       <div className="flex w-full min-h-screen">
         <SidebarProvider>
-          <AppSidebarFaculty />
+          <AppSidebarStudent />
           <main className="flex-1">
             <AppTopbar />
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 m-5 ">
