@@ -5,15 +5,15 @@ CampusNova is a web-based platform that integrates academic, administrative, and
 
 
 Chat-Application Github Repo -> 
-      Frontend : https://github.com/iam-ansh/Chat-App-frontend
-      Backend : https://github.com/iam-ansh/Chat-App-backend
-      Deployment (Frontend) : https://chat-app-frontend-psi-six.vercel.app/
-      Deployment (Backend) : https://mushy-beryl-iam-ansh-a438c218.koyeb.app/
+      Frontend : https://github.com/iam-ansh/Chat-App-frontend <br/>
+      Backend : https://github.com/iam-ansh/Chat-App-backend    <br/>
+      Deployment (Frontend) : https://chat-app-frontend-psi-six.vercel.app/ <br/> 
+      Deployment (Backend) : https://mushy-beryl-iam-ansh-a438c218.koyeb.app/ <br/> 
 
 
-Demo Video Google Drive Link : https://drive.google.com/file/d/1R-V9HZ5GCKX2Nk3S-WQ1Z0FU73MFMANv/view?usp=sharing
-PPT Google Drive Link : https://drive.google.com/file/d/1bY_EVBZvKCztTLFcns7v1I-NDvnbvD2W/view?usp=sharing
+Demo Video Google Drive Link : https://drive.google.com/file/d/1R-V9HZ5GCKX2Nk3S-WQ1Z0FU73MFMANv/view?usp=sharing  <br/>
+PPT Google Drive Link : https://drive.google.com/file/d/1bY_EVBZvKCztTLFcns7v1I-NDvnbvD2W/view?usp=sharing  <br/>
 
-Team Sarvashreshth Programmers
-Team Members : Ansh Saxena, Sahil Dale , Khushi Bagora , Ojasva Surawat
+Team Sarvashreshth Programmers <br/>
+Team Members : Ansh Saxena, Sahil Dale , Khushi Bagora , Ojasva Surawat <br/>
 
