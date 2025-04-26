@@ -14,6 +14,7 @@ import {
 import { MessageSquare } from "lucide-react"
 
 import AppTopbar from "@/components/topbar"
+import { AppSidebarStudent } from "@/components/app-sidebar-student"
 
 
 
@@ -24,7 +25,7 @@ import AppTopbar from "@/components/topbar"
         <>
         <div className="flex w-full min-h-screen">
         <SidebarProvider>
-          <AppSidebarFaculty />
+          <AppSidebarStudent />
           <main className="flex-1">
             <AppTopbar />
             <div className="grid grid-cols-2 m-5">
